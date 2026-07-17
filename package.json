@@ -1,0 +1,8 @@
+{
+  "name": "dev-tools-json",
+  "version": "1.0.0",
+  "description": "Tiny utilities for formatting, validating and minifying JSON.",
+  "main": "index.js",
+  "keywords": ["json", "formatter", "validator", "utility"],
+  "license": "MIT"
+}
